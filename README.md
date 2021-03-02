@@ -32,6 +32,7 @@
 
 ```javascript
 var console = {
-  name  : "闫亚攀"
+  name  : "闫亚攀",
+  skill : "java、spring、zk、netty……"
 }
 ```
